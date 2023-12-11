@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/magnitude"
+    android:gravity="left"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/referencia2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:ems="10"
+        android:hint="referenčný bod2"
+        android:inputType="textPersonName"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/referencia1" />
+
+    <EditText
+        android:id="@+id/planet_name"
+        android:layout_width="211dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="36dp"
+        android:ems="10"
+        android:hint="Teleso"
+        android:inputType="textPersonName"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/longtitude"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:gravity="left"
+        android:text=""
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.513"
+        app:layout_constraintStart_toEndOf="@+id/planet_name"
+        app:layout_constraintTop_toBottomOf="@+id/latitude" />
+
+    <TextView
+        android:id="@+id/latitude"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_marginTop="8dp"
+        android:gravity="left"
+        android:text=""
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/planet_name"
+        app:layout_constraintTop_toTopOf="@+id/planet_name" />
+
+    <Button
+        android:id="@+id/connect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="32dp"
+        android:text="Connect"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/preciznost" />
+
+    <EditText
+        android:id="@+id/referencia1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="168dp"
+        android:ems="10"
+        android:hint="referenčný bod1"
+        android:inputType="textPersonName"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/planet_name" />
+
+    <EditText
+        android:id="@+id/referencia3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:ems="10"
+        android:hint="referenčný bod3"
+        android:inputType="textPersonName"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/referencia2" />
+
+    <Button
+        android:id="@+id/zamerané1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="zamerané"
+        android:text="zamerané"
+        app:layout_constraintBottom_toBottomOf="@+id/referencia1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/referencia1" />
+
+    <Button
+        android:id="@+id/zamerané2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="zamerané"
+        android:text="zamerané"
+        app:layout_constraintBottom_toBottomOf="@+id/referencia2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/referencia2" />
+
+    <Button
+        android:id="@+id/zamerané3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="zamerané"
+        app:layout_constraintBottom_toBottomOf="@+id/referencia3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/referencia3" />
+
+    <ImageButton
+        android:id="@+id/hore"
+        android:layout_width="79dp"
+        android:layout_height="71dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="165dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/referencia3"
+        app:srcCompat="@drawable/hore" />
+
+    <ImageButton
+        android:id="@+id/dole"
+        android:layout_width="79dp"
+        android:layout_height="69dp"
+        android:layout_marginEnd="165dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/hore"
+        app:srcCompat="@drawable/dole" />
+
+    <ImageButton
+        android:id="@+id/vpravo"
+        android:layout_width="69dp"
+        android:layout_height="64dp"
+        app:layout_constraintBottom_toBottomOf="@+id/dole"
+        app:layout_constraintStart_toEndOf="@+id/dole"
+        app:layout_constraintTop_toTopOf="@+id/hore"
+        app:srcCompat="@drawable/doprava" />
+
+    <ImageButton
+        android:id="@+id/vlavo"
+        android:layout_width="68dp"
+        android:layout_height="63dp"
+        app:layout_constraintBottom_toBottomOf="@+id/dole"
+        app:layout_constraintEnd_toStartOf="@+id/dole"
+        app:layout_constraintTop_toTopOf="@+id/hore"
+        app:srcCompat="@drawable/dolava" />
+
+    <EditText
+        android:id="@+id/preciznost"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:ems="10"
+        android:hint="preciznosť"
+        android:inputType="textPersonName"
+        android:text="1"
+        app:layout_constraintStart_toStartOf="@+id/zamerané3"
+        app:layout_constraintTop_toBottomOf="@+id/zamerané3" />
+
+    <TextView
+        android:id="@+id/connectionstate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:ems="10"
+        android:gravity="center"
+        android:inputType="textPersonName"
+        android:text="Disconnected"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/connect" />
+
+    <TextView
+        android:id="@+id/mag"
+        android:layout_width="wrap_content"
+        android:layout_height="19dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.539"
+        app:layout_constraintStart_toEndOf="@+id/planet_name"
+        app:layout_constraintTop_toBottomOf="@+id/longtitude" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

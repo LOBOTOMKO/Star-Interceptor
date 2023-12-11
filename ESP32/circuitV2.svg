@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Circuit Diagram, cdlibrary.dll 4.0.0.0 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" width="820" height="520" xmlns="http://www.w3.org/2000/svg">
+	<line x1="140" y1="470" x2="140" y2="500" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="140" y1="500" x2="650" y2="500" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="650" y1="440" x2="650" y2="500" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="190" y1="470" x2="200" y2="470" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="210" y1="470" x2="230" y2="470" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="140" y1="470" x2="160" y2="470" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="140" y1="420" x2="140" y2="470" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="222" y="400" width="16" height="40" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<line x1="230" y1="420" x2="230" y2="470" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="216" y="420" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 216, 420)">2 A</text>
+	<line x1="760" y1="160" x2="770" y2="160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="770" y1="160" x2="770" y2="200" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="630" y1="200" x2="770" y2="200" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="760" y1="170" x2="760" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="630" y1="190" x2="760" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="630" y1="180" x2="740" y2="180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="630" y1="170" x2="720" y2="170" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="50" y1="200" x2="170" y2="200" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="50" y1="180" x2="50" y2="200" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="70" y1="190" x2="170" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="90" y1="180" x2="170" y2="180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="90" y1="170" x2="170" y2="170" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="720" y1="160" x2="724" y2="160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="756" y1="160" x2="760" y2="160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 740,160 M 735,160 L 730,170 L 720,170" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 740,160 M 745,160 L 750,170 L 760,170" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 724,160 L 726,160 L 730,156" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 756,160 L 754,160 L 750,156" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="740" y1="160" x2="740" y2="180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<ellipse cx="740" cy="145" rx="15" ry="15" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="740" y="145" style="font-family:Arial;font-size:12px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 740, 145)">M</text>
+	<path d="M 733,154 L 733,150 L 747,150 L 747,146" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:1" />
+	<text x="710" y="153" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="middle" transform="rotate(0, 710, 153)">VCC</text>
+	<text x="720" y="177" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="middle" transform="rotate(0, 720, 177)">IN 1</text>
+	<text x="753" y="187" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="middle" transform="rotate(0, 753, 187)">IN 2</text>
+	<text x="760" y="177" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="middle" transform="rotate(0, 760, 177)">IN 3</text>
+	<text x="770" y="153" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="middle" transform="rotate(0, 770, 153)">IN 4</text>
+	<line x1="50" y1="170" x2="54" y2="170" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="86" y1="170" x2="90" y2="170" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 70,170 M 65,170 L 60,180 L 50,180" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 70,170 M 75,170 L 80,180 L 90,180" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 54,170 L 56,170 L 60,166" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 86,170 L 84,170 L 80,166" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="70" y1="170" x2="70" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<ellipse cx="70" cy="155" rx="15" ry="15" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="70" y="155" style="font-family:Arial;font-size:12px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 70, 155)">M</text>
+	<path d="M 63,164 L 63,160 L 77,160 L 77,156" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:1" />
+	<text x="40" y="163" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="middle" transform="rotate(0, 40, 163)">VCC</text>
+	<text x="50" y="187" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="middle" transform="rotate(0, 50, 187)">IN 1</text>
+	<text x="83" y="197" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="middle" transform="rotate(0, 83, 197)">IN 2</text>
+	<text x="90" y="187" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="middle" transform="rotate(0, 90, 187)">IN 3</text>
+	<text x="100" y="163" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="middle" transform="rotate(0, 100, 163)">IN 4</text>
+	<line x1="160" y1="470" x2="161" y2="470" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="189" y1="470" x2="190" y2="470" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<ellipse cx="164" cy="470" rx="3" ry="3" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="186" cy="470" rx="3" ry="3" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<line x1="167" y1="468" x2="184" y2="462" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="630" y1="140" x2="650" y2="140" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="650" y1="140" x2="650" y2="440" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="140" y1="280" x2="140" y2="290" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="140" y1="140" x2="170" y2="140" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="140" y1="140" x2="140" y2="340" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="630" y1="150" x2="640" y2="150" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="640" y1="150" x2="640" y2="290" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="320" y1="290" x2="640" y2="290" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="160" y1="150" x2="170" y2="150" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="160" y1="150" x2="160" y2="290" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="160" y1="290" x2="320" y2="290" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="320" y1="270" x2="320" y2="280" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="320" y1="220" x2="340" y2="220" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="320" y1="220" x2="320" y2="340" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="140" y1="340" x2="140" y2="420" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="450" y1="210" x2="510" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="450" y1="200" x2="510" y2="200" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="450" y1="190" x2="510" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="450" y1="180" x2="510" y2="180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="450" y1="170" x2="510" y2="170" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="450" y1="160" x2="510" y2="160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="450" y1="150" x2="510" y2="150" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="450" y1="140" x2="510" y2="140" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="290" y1="140" x2="330" y2="140" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="290" y1="150" x2="330" y2="150" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="290" y1="170" x2="330" y2="170" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="290" y1="160" x2="330" y2="160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="290" y1="190" x2="330" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="290" y1="180" x2="330" y2="180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="290" y1="210" x2="330" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="290" y1="200" x2="330" y2="200" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="340" y="40" width="100" height="190" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="390" y="30" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="middle" transform="rotate(0, 390, 30)">ESP32</text>
+	<line x1="330" y1="50" x2="340" y2="50" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="344" y="50" style="font-family:Arial;font-size:10px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 344, 50)">EN</text>
+	<text x="336" y="48" style="font-family:Arial;font-size:8px;text-anchor:end" dominant-baseline="baseline" transform="rotate(0, 336, 48)"></text>
+	<line x1="440" y1="50" x2="450" y2="50" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="436" y="50" style="font-family:Arial;font-size:10px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 436, 50)">GPIO23</text>
+	<text x="444" y="48" style="font-family:Arial;font-size:8px;text-anchor:start" dominant-baseline="baseline" transform="rotate(0, 444, 48)">VSPI MOSI</text>
+	<line x1="330" y1="60" x2="340" y2="60" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="344" y="60" style="font-family:Arial;font-size:10px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 344, 60)">GPIO36</text>
+	<text x="336" y="58" style="font-family:Arial;font-size:8px;text-anchor:end" dominant-baseline="baseline" transform="rotate(0, 336, 58)">ADC1 CH0</text>
+	<line x1="440" y1="60" x2="450" y2="60" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="436" y="60" style="font-family:Arial;font-size:10px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 436, 60)">GPIO22</text>
+	<text x="444" y="58" style="font-family:Arial;font-size:8px;text-anchor:start" dominant-baseline="baseline" transform="rotate(0, 444, 58)">I2C SCL</text>
+	<line x1="330" y1="70" x2="340" y2="70" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="344" y="70" style="font-family:Arial;font-size:10px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 344, 70)">GPIO39</text>
+	<text x="336" y="68" style="font-family:Arial;font-size:8px;text-anchor:end" dominant-baseline="baseline" transform="rotate(0, 336, 68)">ADC1 CH3</text>
+	<line x1="440" y1="70" x2="450" y2="70" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="436" y="70" style="font-family:Arial;font-size:10px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 436, 70)">GPIO1</text>
+	<text x="444" y="68" style="font-family:Arial;font-size:8px;text-anchor:start" dominant-baseline="baseline" transform="rotate(0, 444, 68)">UART 0 TX</text>
+	<line x1="330" y1="80" x2="340" y2="80" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="344" y="80" style="font-family:Arial;font-size:10px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 344, 80)">GPIO34</text>
+	<text x="336" y="78" style="font-family:Arial;font-size:8px;text-anchor:end" dominant-baseline="baseline" transform="rotate(0, 336, 78)">ADC1 CH6</text>
+	<line x1="440" y1="80" x2="450" y2="80" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="436" y="80" style="font-family:Arial;font-size:10px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 436, 80)">GPIO3</text>
+	<text x="444" y="78" style="font-family:Arial;font-size:8px;text-anchor:start" dominant-baseline="baseline" transform="rotate(0, 444, 78)">UART 0 RX</text>
+	<line x1="330" y1="90" x2="340" y2="90" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="344" y="90" style="font-family:Arial;font-size:10px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 344, 90)">GPIO35</text>
+	<text x="336" y="88" style="font-family:Arial;font-size:8px;text-anchor:end" dominant-baseline="baseline" transform="rotate(0, 336, 88)">ADC1 CH7</text>
+	<line x1="440" y1="90" x2="450" y2="90" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="436" y="90" style="font-family:Arial;font-size:10px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 436, 90)">GPIO21</text>
+	<text x="444" y="88" style="font-family:Arial;font-size:8px;text-anchor:start" dominant-baseline="baseline" transform="rotate(0, 444, 88)">I2C SDA</text>
+	<line x1="330" y1="100" x2="340" y2="100" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="344" y="100" style="font-family:Arial;font-size:10px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 344, 100)">GPIO32</text>
+	<text x="336" y="98" style="font-family:Arial;font-size:8px;text-anchor:end" dominant-baseline="baseline" transform="rotate(0, 336, 98)">ADC1 CH4</text>
+	<line x1="440" y1="100" x2="450" y2="100" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="436" y="100" style="font-family:Arial;font-size:10px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 436, 100)">GPIO19</text>
+	<text x="444" y="98" style="font-family:Arial;font-size:8px;text-anchor:start" dominant-baseline="baseline" transform="rotate(0, 444, 98)">VSPI MISO</text>
+	<line x1="330" y1="110" x2="340" y2="110" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="344" y="110" style="font-family:Arial;font-size:10px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 344, 110)">GPIO33</text>
+	<text x="336" y="108" style="font-family:Arial;font-size:8px;text-anchor:end" dominant-baseline="baseline" transform="rotate(0, 336, 108)">ADC1 CH5</text>
+	<line x1="440" y1="110" x2="450" y2="110" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="436" y="110" style="font-family:Arial;font-size:10px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 436, 110)">GPIO18</text>
+	<text x="444" y="108" style="font-family:Arial;font-size:8px;text-anchor:start" dominant-baseline="baseline" transform="rotate(0, 444, 108)">VSPI CLK</text>
+	<line x1="330" y1="120" x2="340" y2="120" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="344" y="120" style="font-family:Arial;font-size:10px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 344, 120)">GPIO25</text>
+	<text x="336" y="118" style="font-family:Arial;font-size:8px;text-anchor:end" dominant-baseline="baseline" transform="rotate(0, 336, 118)">ADC2 CH8</text>
+	<line x1="440" y1="120" x2="450" y2="120" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="436" y="120" style="font-family:Arial;font-size:10px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 436, 120)">GPIO5</text>
+	<text x="444" y="118" style="font-family:Arial;font-size:8px;text-anchor:start" dominant-baseline="baseline" transform="rotate(0, 444, 118)">VSPI CS0</text>
+	<line x1="330" y1="130" x2="340" y2="130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="344" y="130" style="font-family:Arial;font-size:10px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 344, 130)">GPIO26</text>
+	<text x="336" y="128" style="font-family:Arial;font-size:8px;text-anchor:end" dominant-baseline="baseline" transform="rotate(0, 336, 128)">ADC2 CH9</text>
+	<line x1="440" y1="130" x2="450" y2="130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="436" y="130" style="font-family:Arial;font-size:10px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 436, 130)">GPIO17</text>
+	<text x="444" y="128" style="font-family:Arial;font-size:8px;text-anchor:start" dominant-baseline="baseline" transform="rotate(0, 444, 128)">UART 2 TX</text>
+	<line x1="330" y1="140" x2="340" y2="140" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="344" y="140" style="font-family:Arial;font-size:10px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 344, 140)">GPIO27</text>
+	<text x="336" y="138" style="font-family:Arial;font-size:8px;text-anchor:end" dominant-baseline="baseline" transform="rotate(0, 336, 138)">ADC2 CH7</text>
+	<line x1="440" y1="140" x2="450" y2="140" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="436" y="140" style="font-family:Arial;font-size:10px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 436, 140)">GPIO16</text>
+	<text x="444" y="138" style="font-family:Arial;font-size:8px;text-anchor:start" dominant-baseline="baseline" transform="rotate(0, 444, 138)">UART 2 RX</text>
+	<line x1="330" y1="150" x2="340" y2="150" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="344" y="150" style="font-family:Arial;font-size:10px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 344, 150)">GPIO14</text>
+	<text x="336" y="148" style="font-family:Arial;font-size:8px;text-anchor:end" dominant-baseline="baseline" transform="rotate(0, 336, 148)">ADC2 CH6</text>
+	<line x1="440" y1="150" x2="450" y2="150" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="436" y="150" style="font-family:Arial;font-size:10px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 436, 150)">GPIO4</text>
+	<text x="444" y="148" style="font-family:Arial;font-size:8px;text-anchor:start" dominant-baseline="baseline" transform="rotate(0, 444, 148)">ADC2 CH0</text>
+	<line x1="330" y1="160" x2="340" y2="160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="344" y="160" style="font-family:Arial;font-size:10px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 344, 160)">GPIO12</text>
+	<text x="336" y="158" style="font-family:Arial;font-size:8px;text-anchor:end" dominant-baseline="baseline" transform="rotate(0, 336, 158)">ADC2 CH5</text>
+	<line x1="440" y1="160" x2="450" y2="160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="436" y="160" style="font-family:Arial;font-size:10px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 436, 160)">GPIO2</text>
+	<text x="444" y="158" style="font-family:Arial;font-size:8px;text-anchor:start" dominant-baseline="baseline" transform="rotate(0, 444, 158)">ADC2 CH2</text>
+	<line x1="330" y1="170" x2="340" y2="170" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="344" y="170" style="font-family:Arial;font-size:10px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 344, 170)">GPIO13</text>
+	<text x="336" y="168" style="font-family:Arial;font-size:8px;text-anchor:end" dominant-baseline="baseline" transform="rotate(0, 336, 168)">ADC2 CH4</text>
+	<line x1="440" y1="170" x2="450" y2="170" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="436" y="170" style="font-family:Arial;font-size:10px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 436, 170)">GPIO15</text>
+	<text x="444" y="168" style="font-family:Arial;font-size:8px;text-anchor:start" dominant-baseline="baseline" transform="rotate(0, 444, 168)">ADC2 CH3</text>
+	<line x1="330" y1="180" x2="340" y2="180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="344" y="180" style="font-family:Arial;font-size:10px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 344, 180)">GPIO9</text>
+	<text x="336" y="178" style="font-family:Arial;font-size:8px;text-anchor:end" dominant-baseline="baseline" transform="rotate(0, 336, 178)">SHD/SD2</text>
+	<line x1="440" y1="180" x2="450" y2="180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="436" y="180" style="font-family:Arial;font-size:10px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 436, 180)">GPIO0</text>
+	<text x="444" y="178" style="font-family:Arial;font-size:8px;text-anchor:start" dominant-baseline="baseline" transform="rotate(0, 444, 178)">ADC2 CH1</text>
+	<line x1="330" y1="190" x2="340" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="344" y="190" style="font-family:Arial;font-size:10px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 344, 190)">GPIO10</text>
+	<text x="336" y="188" style="font-family:Arial;font-size:8px;text-anchor:end" dominant-baseline="baseline" transform="rotate(0, 336, 188)">SWP/SD3</text>
+	<line x1="440" y1="190" x2="450" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="436" y="190" style="font-family:Arial;font-size:10px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 436, 190)">GPIO8</text>
+	<text x="444" y="188" style="font-family:Arial;font-size:8px;text-anchor:start" dominant-baseline="baseline" transform="rotate(0, 444, 188)">SDI/SD1</text>
+	<line x1="330" y1="200" x2="340" y2="200" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="344" y="200" style="font-family:Arial;font-size:10px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 344, 200)">GPIO11</text>
+	<text x="336" y="198" style="font-family:Arial;font-size:8px;text-anchor:end" dominant-baseline="baseline" transform="rotate(0, 336, 198)">CSC/CMD</text>
+	<line x1="440" y1="200" x2="450" y2="200" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="436" y="200" style="font-family:Arial;font-size:10px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 436, 200)">GPIO7</text>
+	<text x="444" y="198" style="font-family:Arial;font-size:8px;text-anchor:start" dominant-baseline="baseline" transform="rotate(0, 444, 198)">SDO/SD0</text>
+	<line x1="330" y1="210" x2="340" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="344" y="210" style="font-family:Arial;font-size:10px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 344, 210)">GND</text>
+	<text x="336" y="208" style="font-family:Arial;font-size:8px;text-anchor:end" dominant-baseline="baseline" transform="rotate(0, 336, 208)"></text>
+	<line x1="440" y1="210" x2="450" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="436" y="210" style="font-family:Arial;font-size:10px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 436, 210)">GND</text>
+	<text x="444" y="208" style="font-family:Arial;font-size:8px;text-anchor:start" dominant-baseline="baseline" transform="rotate(0, 444, 208)">SCK/CLK</text>
+	<line x1="330" y1="220" x2="340" y2="220" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="344" y="220" style="font-family:Arial;font-size:10px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 344, 220)">VIN</text>
+	<text x="336" y="218" style="font-family:Arial;font-size:8px;text-anchor:end" dominant-baseline="baseline" transform="rotate(0, 336, 218)"></text>
+	<line x1="440" y1="220" x2="450" y2="220" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="436" y="220" style="font-family:Arial;font-size:10px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 436, 220)">3V3</text>
+	<text x="444" y="218" style="font-family:Arial;font-size:8px;text-anchor:start" dominant-baseline="baseline" transform="rotate(0, 444, 218)"></text>
+	<line x1="200" y1="470" x2="196" y2="470" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="196" y1="460" x2="196" y2="480" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="202" y1="465" x2="202" y2="475" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="208" y1="460" x2="208" y2="480" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="214" y1="465" x2="214" y2="475" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="214" y1="470" x2="210" y2="470" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="205" y="458" style="font-family:Arial;font-size:12px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 205, 458)">+12V</text>
+	<rect x="160" y="300" width="140" height="80" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<line x1="140" y1="340" x2="160" y2="340" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="230" y1="380" x2="230" y2="400" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="300" y1="340" x2="320" y2="340" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="230" y="297" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 230, 297)"></text>
+	<text x="230" y="315" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="hanging" transform="rotate(0, 230, 315)">L7805CV</text>
+	<text x="168" y="340" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 168, 340)">Vin</text>
+	<text x="230" y="372" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 230, 372)">GND</text>
+	<text x="292" y="340" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 292, 340)">Vout</text>
+	<text x="157" y="337" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="baseline" transform="rotate(0, 157, 337)">3</text>
+	<text x="227" y="383" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="hanging" transform="rotate(0, 227, 383)">1</text>
+	<text x="303" y="337" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="baseline" transform="rotate(0, 303, 337)">2</text>
+	<text x="570" y="120" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="middle" transform="rotate(0, 570, 120)">TB6612FNG</text>
+	<rect x="520" y="130" width="100" height="90" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<line x1="510" y1="140" x2="520" y2="140" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="524" y="140" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 524, 140)">PWMA</text>
+	<line x1="620" y1="140" x2="630" y2="140" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="616" y="140" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 616, 140)">VM</text>
+	<line x1="510" y1="150" x2="520" y2="150" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="524" y="150" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 524, 150)">AI2</text>
+	<line x1="620" y1="150" x2="630" y2="150" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="616" y="150" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 616, 150)">VCC</text>
+	<line x1="510" y1="160" x2="520" y2="160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="524" y="160" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 524, 160)">AI1</text>
+	<line x1="620" y1="160" x2="630" y2="160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="616" y="160" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 616, 160)">GND</text>
+	<line x1="510" y1="170" x2="520" y2="170" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="524" y="170" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 524, 170)">STBY</text>
+	<line x1="620" y1="170" x2="630" y2="170" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="616" y="170" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 616, 170)">Ao1</text>
+	<line x1="510" y1="180" x2="520" y2="180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="524" y="180" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 524, 180)">BI1</text>
+	<line x1="620" y1="180" x2="630" y2="180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="616" y="180" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 616, 180)">Ao2</text>
+	<line x1="510" y1="190" x2="520" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="524" y="190" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 524, 190)">BI2</text>
+	<line x1="620" y1="190" x2="630" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="616" y="190" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 616, 190)">Bo2</text>
+	<line x1="510" y1="200" x2="520" y2="200" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="524" y="200" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 524, 200)">PWMB</text>
+	<line x1="620" y1="200" x2="630" y2="200" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="616" y="200" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 616, 200)">Bo1</text>
+	<line x1="510" y1="210" x2="520" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="524" y="210" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 524, 210)">GND</text>
+	<line x1="620" y1="210" x2="630" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="616" y="210" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 616, 210)">GND</text>
+	<text x="230" y="120" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="middle" transform="rotate(0, 230, 120)">TB6612FNG</text>
+	<rect x="180" y="130" width="100" height="90" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<line x1="170" y1="140" x2="180" y2="140" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="184" y="140" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 184, 140)">VM</text>
+	<line x1="280" y1="140" x2="290" y2="140" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="276" y="140" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 276, 140)">PWMA</text>
+	<line x1="170" y1="150" x2="180" y2="150" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="184" y="150" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 184, 150)">VCC</text>
+	<line x1="280" y1="150" x2="290" y2="150" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="276" y="150" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 276, 150)">AI2</text>
+	<line x1="170" y1="160" x2="180" y2="160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="184" y="160" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 184, 160)">GND</text>
+	<line x1="280" y1="160" x2="290" y2="160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="276" y="160" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 276, 160)">AI1</text>
+	<line x1="170" y1="170" x2="180" y2="170" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="184" y="170" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 184, 170)">Ao1</text>
+	<line x1="280" y1="170" x2="290" y2="170" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="276" y="170" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 276, 170)">STBY</text>
+	<line x1="170" y1="180" x2="180" y2="180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="184" y="180" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 184, 180)">Ao2</text>
+	<line x1="280" y1="180" x2="290" y2="180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="276" y="180" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 276, 180)">BI1</text>
+	<line x1="170" y1="190" x2="180" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="184" y="190" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 184, 190)">Bo2</text>
+	<line x1="280" y1="190" x2="290" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="276" y="190" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 276, 190)">BI2</text>
+	<line x1="170" y1="200" x2="180" y2="200" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="184" y="200" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 184, 200)">Bo1</text>
+	<line x1="280" y1="200" x2="290" y2="200" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="276" y="200" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 276, 200)">PWMB</text>
+	<line x1="170" y1="210" x2="180" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="184" y="210" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 184, 210)">GND</text>
+	<line x1="280" y1="210" x2="290" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="276" y="210" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 276, 210)">GND</text>
+	<ellipse cx="140" cy="470" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="140" cy="340" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="320" cy="290" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+</svg>
